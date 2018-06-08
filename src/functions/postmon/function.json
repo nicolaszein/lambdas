@@ -1,0 +1,8 @@
+{
+    "runtime": "python3.6",
+    "memory": 128,
+    "timeout": 5,
+    "hooks":{
+        "build": "pip install -r requirements.txt -t ."
+    }
+}

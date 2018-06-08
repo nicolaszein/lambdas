@@ -1,0 +1,7 @@
+{
+  "name": "lambda",
+  "memory": 128,
+  "timeout": 5,
+  "role": "iam_role",
+  "environment": {}
+}
